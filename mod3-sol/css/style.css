@@ -1,0 +1,41 @@
+body { 
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    margin-bottom: 200px;
+}
+
+#content {
+
+    background-color: gray;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+
+#header-nav {
+
+    border: 3px solid black;
+    background-color: gray;
+}
+
+#title-nav {
+
+    font-weight: bold;
+}
+
+#page-title {
+    margin: 20px;
+}
+
+#nav-dropdown {
+
+    margin-top: 10px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+#navbar-line {
+
+    border-top: 2px solid black;
+    margin: auto;
+}
